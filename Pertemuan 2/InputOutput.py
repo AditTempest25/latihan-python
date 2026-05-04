@@ -1,0 +1,11 @@
+print("=+=+=+=+ Data Diri Mahasiswa =+=+=+=+")
+nim = input("NIM : ")
+nama = input("Nama : ")
+jurusan = input("Jurusan : ")
+alamat = input("Alamat : ")
+
+print("=+=+=+=+ Hasil Cetak Data di Atas Adalah =+=+=+=+")
+print(f"NIM : {nim}")
+print(f"Nama : {nama}")
+print(f"Jurusan : {jurusan}")
+print(f"Alamat : {alamat}")
