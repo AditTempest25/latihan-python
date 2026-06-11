@@ -9,3 +9,5 @@ for i in range(ulang):
     
     print(f"NIM anda adalah {nim}, nilai UTS anda {uts}, nilai UAS anda {uas}")
     print("-------------------------------------\n")
+    
+    
